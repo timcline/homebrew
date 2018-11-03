@@ -1,6 +1,6 @@
 ## Tim Cline's homebrew recipes
 
-Dubbel
+[Dubbel]({{ site.baseurl }}/IPA Wedding.pdf)
 
 American Blonde
 
