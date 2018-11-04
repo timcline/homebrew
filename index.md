@@ -1,9 +1,9 @@
 ## Tim Cline's homebrew recipes
 
-[Dubbel]({{ site.baseurl }}/IPA Wedding.pdf)
+[Dubbel]({{ site.baseurl }}/Dubbel.pdf)
 
 American Blonde
 
 Oktoberfest
 
-IPA
+[IPA]({{ site.baseurl }}/IPA Wedding.pdf)
