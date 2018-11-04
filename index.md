@@ -2,8 +2,8 @@
 
 [Dubbel]({{ site.baseurl }}/Dubbel.pdf)
 
-American Blonde
+(American Blonde)({{ site.baseurl }}/Blonde.pdf)
 
-Oktoberfest
+(Oktoberfest)({{ site.baseurl }}/Marzen.pdf)
 
 [IPA]({{ site.baseurl }}/IPA Wedding.pdf)
